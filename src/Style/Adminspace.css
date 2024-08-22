@@ -1,0 +1,78 @@
+.header5{
+    margin-left:540px;
+
+}
+.div19{
+    margin-left:500px;
+}
+.newuser1{
+    text-decoration:none;
+    font-size:30px;
+    border-radius:5px;
+    background-color:limegreen;
+    color:white;
+    width:200px;
+    padding:6px;
+    margin-left:120px;
+    
+
+}
+.logout4{
+    text-decoration:none;
+    margin-left:20px;
+    font-size:30px;
+    border-radius:5px;
+    background-color:black;
+    padding:5px;
+    width:180px;
+    color:white;
+    margin-left:600px;
+   
+}
+
+.div20{
+  
+    margin-top:85px;
+    width:800px;
+    margin-left:210px;
+   border-radius:10px;
+   background-color:white;
+   
+}
+
+.table2{
+    padding:40px;
+    
+}
+
+.thead3{
+    font-size:35px;
+    text-align:center;
+    color:darkviolet;
+    
+}
+.tbody2{
+    font-size:23px;
+    color:black;
+    
+}
+
+.update3{
+    text-decoration:none;
+    text-align:center;
+    background-color:#6380DD;
+    color:white;
+    padding:5px;
+    border-radius:5px;
+
+}
+
+.delete3{
+    font-size:24px;
+    border:0px solid black;
+    background-color:#FA5C44;
+    color:white;
+    padding:5px;
+    border-radius:5px;
+    cursor:pointer;
+}

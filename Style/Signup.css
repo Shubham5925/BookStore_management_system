@@ -1,0 +1,112 @@
+.background1{
+    background-color:rgba(135, 85, 202, 0.879);
+    height:700px;
+}
+
+.header1{
+    color:white;
+    font-weight:bold;
+    margin-left:45%;
+    border:1px solid black;
+    background-color:black;
+    border-radius:5px 5px;
+    width:130px;
+    text-align:center;
+    height:59px;
+    padding:6px;
+}
+.div1{
+    background-color:white;
+    height:100%;
+    width:26%;
+    margin-left:565px;
+    margin-top:50px;
+    border-radius:8px 8px;
+    display:block;
+    box-shadow:10px 10px;
+    
+    
+}
+.div2{
+    padding:30px;
+    width:655px;
+    height:440px;
+    margin-top:0px;
+}
+.div3{
+    
+    width:49%;
+    height:10%;
+    padding:5px;
+    margin-top:27px;
+}
+.input1{
+    border:2px solid black;
+    width:95%;
+    height:85%;
+    margin-top:10px;
+    border-radius:5px 5px;
+    color:blueviolet;
+    box-shadow:4px 4px;
+    font-weight:bold;
+    
+}
+.label1{
+    margin-top:5px;
+}
+.register1{
+    margin-top:45px;
+    border:1px solid black;
+    padding:5px;
+    width:150px;
+    font-size:27px;
+    margin-left:14%;
+    cursor:pointer;
+    border-radius:5px 5px;
+    background-color:black;
+    color:white;
+}
+.login1{
+    font-size:20px;
+    margin-left:15px;
+    color:white;
+    padding:10px;
+    background-color:black;
+    border-radius:5px 5px;
+    width:150px;
+}
+.adminlogin1{
+    font-size:20px;
+    margin-left:16px;
+    margin-top:0px;
+    color:white;
+    padding:10px;
+    background-color:black;
+    border-radius:5px 5px;
+    width:150px;
+}
+.link1{
+    text-decoration:none;
+    color:white;
+}
+
+
+
+
+
+.register1:hover{
+    background-color:darkviolet;
+    color:white;
+    font-size:28px;
+   
+}
+.input1:hover{
+    box-shadow:7px 7px;
+    
+}
+.login1:hover{
+    background-color:darkviolet;
+}
+.adminlogin1:hover{
+    background-color:darkviolet;
+}

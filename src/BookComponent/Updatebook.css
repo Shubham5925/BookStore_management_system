@@ -1,0 +1,55 @@
+.update1{
+    margin-left:620px;
+    font-size:35px;
+    color:black;
+    border:1px solid black;
+    padding:5px;
+    background-color:lightpink;
+    width:200px;
+    height:50px;
+    border-radius:5px;
+
+}
+.div16{
+    border:1px solid black;
+    width:400px;
+    height:490px;
+    margin-left:535px;
+    margin-top:100px;
+    border-radius:10px;
+    box-shadow:0px 0px 10px 10px;;
+}
+.div17{
+    padding:30px;
+}
+.label6{
+    font-size:25px;
+    font-weight:bold;
+    margin-top:5px;
+    color:deeppink;
+}
+.input6{
+    width:310px;
+    height:30px;
+    border-radius:5px;
+    margin-top:7px;
+
+    
+    
+}
+.edit1{
+    margin-left:120px;
+    font-size:27px;
+    border:1px solid black;
+    width:150px;
+    height:35px;
+    cursor:pointer;
+    border-radius:5px;
+    background-color:lightpink;
+    
+
+}
+
+.edit1:hover{
+    box-shadow:0px 0px 5px 5px;
+}

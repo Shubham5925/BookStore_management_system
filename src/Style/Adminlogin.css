@@ -1,0 +1,101 @@
+.header3{
+    border:1px solid black;
+    padding:6px;
+    width:250px;
+    margin-left:560px;
+    border-radius:5px;
+    text-align:center;
+    background-color:#003DFF  ;
+    color:white;
+
+
+}
+.label5{
+   font-weight:bold;
+   font-size:30px; 
+   margin-top:10px;
+   font-family: 'Roboto Condensed', sans-serif;
+
+}
+.input3{
+    width:350px;
+    margin-top:5px;
+    height:30px;
+    border-radius:15px;
+    color:#003DFF;
+    font-weight:bold;
+    box-shadow:2px 2px;
+    padding:3px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Teko', sans-serif;
+}
+.div13{
+    border:1px solid black;
+    width:400px;
+    height:300px;
+    margin-left:470px;
+    padding:20px;
+    border-radius:10px;
+    margin-top:100px;
+    box-shadow:5px 5px;
+    background-color:#CDD9FF  ;
+}
+.div14{
+    padding:20px;
+    padding:10px;
+}
+.adminlogin2{
+    border:1px solid black;
+    width:210px;
+    height:43px;
+    margin-top:30px;
+    margin-left:90px;
+    cursor:pointer;
+    border-radius:5px;
+    font-size:27px;
+    padding:8px;
+    background-color:#003DFF;
+    color:white;
+}
+
+.div15{
+    margin-left:580px;
+    margin-top:30px;
+    display:flex;
+
+}
+.register3{
+    font-size:27px;
+    padding:10px;
+    text-decoration:none;
+    border-radius:10px;
+    background-color:#003DFF;
+    color:white;
+    width:220px;
+
+}
+.login3{
+    font-size:27px;
+    padding:10px;
+    text-decoration:none;
+    margin-left:20px;
+    border-radius:10px;
+    width:220px;
+    color:white;
+    background-color:#003DFF;
+
+}
+
+
+
+
+.adminlogin2:hover{
+    background-color:#008080
+}
+.register3:hover{
+    background-color:#008080;
+}
+
+.login3:hover{
+    background-color:#008080;
+}

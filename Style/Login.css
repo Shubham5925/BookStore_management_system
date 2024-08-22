@@ -1,0 +1,90 @@
+.background2{
+    background-color:white;
+    height:740px;
+}
+.heading2{
+    text-align:center;
+    font-size:35px;
+    border:1px solid black;
+    width:200px;
+    height:50px;
+    margin-left:40%;
+    background-color:black;
+    color:white;
+    border-radius:10px 10px;
+    padding:5px;
+
+}
+
+.div6{
+    border:1px solid black;
+    background-color:gainsboro;
+    height:350px;
+    width:300px;
+    margin-left:510px;
+    margin-top:100px;
+    padding:50px;
+    border-radius:10px 10px;
+    box-shadow:10px 10px;
+}
+.div7{
+    padding:10px;
+    height:58px;
+    width:270px;
+   
+}
+
+.label2{
+    margin-top:6px;
+    margin-left:2px;
+   
+    
+}
+.input2{
+    border:1px solid black;
+    margin-top:8px;
+    width:270px;
+    height:33px;
+    border-radius:20px 20px;
+    padding:5px;
+    color:blue;
+    font-weight:bold;
+}
+.login2{
+    height:50px;
+    width:200px;
+    font-size:25px;
+    border-radius:9px 9px;
+    margin-top:35px;
+    margin-left:43px;
+    cursor:pointer;
+    background-color:black;
+    color:white;
+    
+    
+}
+.signup2{
+    border:1px solid black;
+    width:80px;
+    height:50px;
+    font-size:25px;
+    border-radius:9px 9px;
+    cursor:pointer;
+    text-decoration:none;
+    padding:10px;
+    background-color:black;
+    color:white;
+    margin-left:95px;
+  
+}
+
+
+
+
+
+.login2:hover{
+    background-color:cadetblue;
+}
+.signup2:hover{
+    background-color:cadetblue;
+}

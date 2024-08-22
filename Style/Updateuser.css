@@ -1,0 +1,53 @@
+.div21{
+    font-size:35px;
+    margin-left:550px;
+    margin-top:20px;
+    text-decoration:underline;
+
+}
+.div22{
+    border:1px solid black;
+    width:410px;
+    height:350px;
+    margin-left:520px;
+    border-radius:5px;
+    margin-top:150px;
+    background-color: lightcyan;
+
+}
+.div23{
+    margin-left:130px;
+    font-size:30px;
+    margin-top:20px;
+    text-decoration:underline;
+    
+}
+.label7{
+    font-weight:bold;
+    margin-left:50px;
+    margin-top:15px;
+}
+.input7{
+    margin-top:7px;
+    border-radius:5px;
+    width:300px;
+    margin-left:50px;
+    height:33px;
+    color:darkcyan;
+    font-weight:bold;
+    
+}
+
+.update6{
+    margin-left:127px;
+    margin-top:25px;
+    background-color:darkcyan;
+    color:white;
+    font-size:25px;
+    padding:8px;
+    border-radius:10px;
+    cursor:pointer;
+    width:160px;
+    height:45px;
+    
+}

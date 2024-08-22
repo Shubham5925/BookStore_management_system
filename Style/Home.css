@@ -1,0 +1,125 @@
+.header4{
+    margin-left:37%;
+}
+.logout1{
+    text-decoration:none;
+    width:130px;
+    font-size:25px;
+    height:55px;
+    margin-top:10px;
+    background-color:black;
+}
+.logout2{
+    text-decoration:none;
+    color:white;
+}
+.div8{
+    border:1px solid black;
+    height:280px;
+    width:450px;
+    padding:25px;
+    border-radius:10px;
+    background-color:black;
+    margin-left:30%;
+}
+.label4{
+    font-size:30px;
+    color:white;
+}
+.input4{
+    border:1px solid black;
+    width:270px;
+    height:30px;
+    border-radius:5px;
+    padding:5px;
+    font-weight:bold;
+    color:darkviolet;
+}
+.div9{
+    margin-left:157px;
+    width:250px;
+    height:20px;
+   
+}
+.submit1{
+    font-size:30px;
+    padding:5px;
+    margin-top:13px;
+    border-radius:5px;
+    cursor:pointer;
+    font-weight:bold;
+}
+
+
+.submit1:hover{
+    color:white;
+    background-color:grey;
+}
+
+
+
+
+
+
+.header5{
+    margin-left:560px;
+}
+.table1{
+   
+    font-size:25px;
+    font-weight:bold;
+    color:navy;
+    border-color:black;
+    border:10px solid black;
+
+    
+}
+.thead1{
+   font-size:30px;
+   color:black;
+   text-align:center;
+   font-weight:bold;
+   
+   
+}
+.div10{
+    margin-left:250px;
+    width:880px;
+}
+
+.div11{
+    display:flex;
+}
+
+.tbody1{
+    font-size:25px;
+}
+.logout1{
+    margin-left:300px;
+    margin-top:20px;
+    font-size:30px;
+    border-radius:5px;
+    padding:10px;
+    
+}
+
+.td1{
+    text-decoration:none;
+    border:2px solid black;
+    background-color:black;
+    color:white;
+    padding:5px;
+    font-size:28px;
+    font-weight:bold;
+    border-radius:5px;
+}
+
+.td2{
+    background-color:black;;
+    padding:5px;
+    font-size:27px;
+    border-radius:5px;
+    cursor:pointer;
+    color:white;
+    
+}
